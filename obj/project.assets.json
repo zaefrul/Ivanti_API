@@ -12960,11 +12960,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\zaefr\\source\\repos\\Ivanti_API\\Ivanti_API\\Ivanti_API\\SSM_SOAP_REST_SVC\\SSM_SOAP_REST_SVC.csproj",
+      "projectUniqueName": "C:\\Users\\zaefr\\source\\repos\\Ivanti_API\\Ivanti_API\\Ivanti_API\\SSM_SOAP_REST_SVC.csproj",
       "projectName": "SSM_SOAP_REST_SVC",
-      "projectPath": "C:\\Users\\zaefr\\source\\repos\\Ivanti_API\\Ivanti_API\\Ivanti_API\\SSM_SOAP_REST_SVC\\SSM_SOAP_REST_SVC.csproj",
+      "projectPath": "C:\\Users\\zaefr\\source\\repos\\Ivanti_API\\Ivanti_API\\Ivanti_API\\SSM_SOAP_REST_SVC.csproj",
       "packagesPath": "C:\\Users\\zaefr\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\zaefr\\source\\repos\\Ivanti_API\\Ivanti_API\\Ivanti_API\\SSM_SOAP_REST_SVC\\obj\\",
+      "outputPath": "C:\\Users\\zaefr\\source\\repos\\Ivanti_API\\Ivanti_API\\Ivanti_API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
