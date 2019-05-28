@@ -30,7 +30,7 @@ namespace SSM_SOAP_REST_SVC
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_2);
 
             services.AddDbContext<SSM_SOAP_REST_SVCContext>(options =>
-                    options.UseSqlServer(Configuration.GetConnectionString("SSM_SOAP_REST_SVCContext")));
+                    options.UseSqlServer("Data Source=10.5.3.50\\SQL2016;Initial Catalog=IvantiSSM;User ID=sa;Password=P@ssw0rd"));
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

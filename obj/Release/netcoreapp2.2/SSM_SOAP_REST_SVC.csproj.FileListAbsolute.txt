@@ -1,0 +1,14 @@
+C:\Users\zaefr\source\repos\Ivanti_API\Ivanti_API\Ivanti_API\bin\Release\netcoreapp2.2\SSM_SOAP_REST_SVC.deps.json
+C:\Users\zaefr\source\repos\Ivanti_API\Ivanti_API\Ivanti_API\bin\Release\netcoreapp2.2\SSM_SOAP_REST_SVC.runtimeconfig.json
+C:\Users\zaefr\source\repos\Ivanti_API\Ivanti_API\Ivanti_API\bin\Release\netcoreapp2.2\SSM_SOAP_REST_SVC.runtimeconfig.dev.json
+C:\Users\zaefr\source\repos\Ivanti_API\Ivanti_API\Ivanti_API\bin\Release\netcoreapp2.2\SSM_SOAP_REST_SVC.dll
+C:\Users\zaefr\source\repos\Ivanti_API\Ivanti_API\Ivanti_API\bin\Release\netcoreapp2.2\SSM_SOAP_REST_SVC.pdb
+C:\Users\zaefr\source\repos\Ivanti_API\Ivanti_API\Ivanti_API\obj\Release\netcoreapp2.2\SSM_SOAP_REST_SVC.csprojAssemblyReference.cache
+C:\Users\zaefr\source\repos\Ivanti_API\Ivanti_API\Ivanti_API\obj\Release\netcoreapp2.2\SSM_SOAP_REST_SVC.csproj.CoreCompileInputs.cache
+C:\Users\zaefr\source\repos\Ivanti_API\Ivanti_API\Ivanti_API\obj\Release\netcoreapp2.2\SSM_SOAP_REST_SVC.RazorAssemblyInfo.cache
+C:\Users\zaefr\source\repos\Ivanti_API\Ivanti_API\Ivanti_API\obj\Release\netcoreapp2.2\SSM_SOAP_REST_SVC.RazorAssemblyInfo.cs
+C:\Users\zaefr\source\repos\Ivanti_API\Ivanti_API\Ivanti_API\obj\Release\netcoreapp2.2\SSM_SOAP_REST_SVC.AssemblyInfoInputs.cache
+C:\Users\zaefr\source\repos\Ivanti_API\Ivanti_API\Ivanti_API\obj\Release\netcoreapp2.2\SSM_SOAP_REST_SVC.AssemblyInfo.cs
+C:\Users\zaefr\source\repos\Ivanti_API\Ivanti_API\Ivanti_API\obj\Release\netcoreapp2.2\SSM_SOAP_REST_SVC.RazorTargetAssemblyInfo.cache
+C:\Users\zaefr\source\repos\Ivanti_API\Ivanti_API\Ivanti_API\obj\Release\netcoreapp2.2\SSM_SOAP_REST_SVC.dll
+C:\Users\zaefr\source\repos\Ivanti_API\Ivanti_API\Ivanti_API\obj\Release\netcoreapp2.2\SSM_SOAP_REST_SVC.pdb
